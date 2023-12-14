@@ -80,12 +80,12 @@ python manage.py runserver
   Полная документация доступна по адресу http://127.0.0.1:8000/redoc/
 
 ## Используемые технологии
-- **Python**
-- **Django**
-- **Django Rest Framework**
-- **SQLite**
-- **REST API**
-- **Simple JWT**
+- **Python**: Язык программирования.
+- **Django**: Веб-фреймворк Python.
+- **Django Rest Framework (DRF)**: Инструмент для создания API.
+- **SQLite**: Встраиваемая база данных.
+- **REST API**: Правила для веб-сервисов.
+- **Simple JWT**: Работа с JSON Web Tokens.
 
 ## Участники:
 
