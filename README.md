@@ -78,6 +78,14 @@ python manage.py runserver
   ```
 
   Полная документация доступна по адресу http://127.0.0.1:8000/redoc/
+
+## Технологии
+Python
+Django
+Django Rest Framework
+SQLite
+REST API
+Simple JWT
 ## Участники:
 
 [Анатолий Бессмертный](https://github.com/AnatoliiBessmertnyi). 
